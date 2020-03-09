@@ -1,0 +1,15 @@
+{% extends "learning_logs/base.html" %}
+{% load bootstrap3 %}
+{% block header %}
+<h2>Добавить новую тему:</h2>
+{% endblock header %}
+{% block content %}
+
+<form method="post" action="{% url 'learning_logs:new_entry' topic.id %}" class="form">
+{% csrf_token %}
+{% bootstrap_form form %}
+    {% buttons %}
+<button name="submit" class="btn btn-primary">добавить</button>
+    {% endbuttons %}
+</form>
+{% endblock content %}
