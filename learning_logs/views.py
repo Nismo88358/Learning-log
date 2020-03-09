@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 from .models import Topic, Entry
 from django.http import HttpResponseRedirect, Http404
 from django.urls import reverse
@@ -23,7 +23,7 @@ def topics(request):
 @login_required
 def topic(request, topic_id):
     """Выводит одну тему и все её записи"""
-    topic = Topic.objects.get(id=topic_id)
+    topic = get_object_or_404(Topic, id=topic_id)
     # проверка того, что тема пренадлежит текущему пользователю
     if topic.owner != request.user:
         check_topic_owner()
