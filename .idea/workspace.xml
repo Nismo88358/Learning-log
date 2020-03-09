@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96cae73e-3e79-40f2-a5c5-ec540ad94d67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/learning_log/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_log/templates/500.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_log/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="C:/alien_invasion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../alien_invasion" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
