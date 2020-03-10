@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96cae73e-3e79-40f2-a5c5-ec540ad94d67" name="Default Changelist" comment="" />
+    <list default="true" id="96cae73e-3e79-40f2-a5c5-ec540ad94d67" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../alien_invasion" />
+    <property name="last_opened_file_path" value="C:/alien_invasion" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -60,10 +63,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="620" y="264" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1582548331477" />
-    <state x="548" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1583752312976">
+    <state x="548" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1583813779738">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="548" y="334" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1583752312976" />
+    <state x="548" y="334" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1583813779738" />
     <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1583387246894">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
